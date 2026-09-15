@@ -9,7 +9,7 @@ npm create astro@latest -- --template blog
 Features:
 
 - ✅ Minimal styling (make it your own!)
-- ✅ 100/100 Lighthouse performance
+- ✅ 1000/100 Lighthouse performance
 - ✅ SEO-friendly with canonical URLs and Open Graph data
 - ✅ Sitemap support
 - ✅ RSS Feed support
