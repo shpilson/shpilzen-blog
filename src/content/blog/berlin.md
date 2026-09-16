@@ -1,7 +1,7 @@
 ---
 title: "Первый пост в блоге"
 description: "Просто рисунок в Figma."
-pubDate: "Jan 03 2022"
+pubDate: 2022-01-03
 heroImage: "/Pic.jpg"
 ---
 
