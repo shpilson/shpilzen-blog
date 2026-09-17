@@ -1,6 +1,6 @@
 This favicon was generated using the following font:
 
-- Font Title: Chenla
+- Font Title: Geo
 - Font Author: undefined
-- Font Source: https://fonts.gstatic.com/s/chenla/v25/SZc43FDpIKu8WZ9eXxfonUPL6Q.ttf
+- Font Source: https://fonts.gstatic.com/s/geo/v23/CSRz4zRZlufVL3BmQjlCbQ.ttf
 - Font License: undefined)
