@@ -14,4 +14,4 @@ heroImage: "../../assets/Pic.jpg"
 Прикладываю готовый рисунок и что-то вроде скетча.
 
 ![Berlin sketch](../../assets/Pic.jpg)
-![blog placeholder](../../assets/Pic2.jpg)
+![blog placeholder](../../assets/Pic2.png)
