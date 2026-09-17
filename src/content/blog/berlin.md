@@ -12,3 +12,6 @@ heroImage: "../../assets/Pic.jpg"
 Выбрал для себя Брандербургские ворота, что в Берлине.
 
 Прикладываю готовый рисунок и что-то вроде скетча.
+
+![Berlin sketch](../../assets/Pic.jpg)
+![blog placeholder](../../assets/Pic2.jpg)
