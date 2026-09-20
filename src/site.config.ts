@@ -43,7 +43,7 @@ export const menuLinks: { path: string; title: string }[] = [
 	},
 	{
 		path: "/notes/",
-		title: "Заметки",
+		title: "Короткие заметки",
 	},
 ];
 
