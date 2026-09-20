@@ -9,10 +9,12 @@ export function getFormattedDate(
 		return "Invalid Date";
 	}
 
-	return new Intl.DateTimeFormat(siteConfig.lang, {
-		...(siteConfig.date.options as Intl.DateTimeFormatOptions),
-		...options,
-	}).format(date);
+	const formattedDate = new Intl.DateTimeFormat(siteConfig.lang, {
+  ...(siteConfig.date.options as Intl.DateTimeFormatOptions),
+  ...options,
+}).format(date);
+
+return formattedDate.replace(/\s*г\./g, "");
 }
 
 export function collectionDateSort(
